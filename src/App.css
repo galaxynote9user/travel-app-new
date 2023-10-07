@@ -1,0 +1,111 @@
+.container {
+  width: 1200px;
+  text-align: center;
+  position: unset;
+}
+
+.tours-page {
+  padding-top: 110px;
+}
+
+.jumbotron_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.jumpotron-tour-info {
+  display: flex;
+}
+
+button.form_button {
+  border: 1px solid #ff5100;
+  width: 19em;
+  height: 2.1em;
+  border-radius: 4px;
+  background: #ff5100;
+  color: white;
+  box-shadow: 1px 1px 20px 0px #adb3b2;
+}
+
+.container.admin-create-tour {
+  padding-top: 155px;
+}
+
+label.admin-label {
+  padding-bottom: 15px;
+  font-size: 15px;
+}
+textarea#details {
+  height: auto;
+  font-size: 14px;
+}
+
+.container.admin-create-tour {
+  padding-top: 155px;
+  width: 43%;
+}
+
+label.upload-photo {
+  font-size: 14px;
+  padding-right: 10px;
+  margin-left: 84px;
+}
+
+button.btn.btn-success {
+  margin-top: 10px;
+}
+
+h3.grey-text.text-darken-3 {
+  padding-bottom: 15px;
+}
+.container.section.tour-details {
+  padding-top: 130px;
+}
+
+ul.images-list {
+  list-style: none;
+  float: right;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.images {
+  padding-right: 10px;
+  display: flex;
+  width: 50%;
+}
+.image-list {
+  float: left;
+  display: flex;
+  padding-right: 10px;
+}
+.img {
+  padding: 0 25px;
+}
+p.left {
+  text-align: left;
+}
+
+.travel-info {
+  text-align: left;
+  padding-left: 25px;
+  width: 50%;
+}
+.travel-info p {
+  font-size: 14px; 
+  color: black;
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: black;
+}
+button.btn.btn-success {
+  margin-bottom: 100px;
+}
+
+
+.text-warning {
+  padding-top: 40vh;
+}
